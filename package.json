@@ -6,6 +6,8 @@
   "dependencies": {
     "ejs": "^2.5.6",
     "express": "^4.15.3",
+    "express-session": "^1.15.5",
+    "googleapis": "^21.3.0",
     "mongodb": "^2.2.27",
     "mongoose": "^4.10.4",
     "supervisor": "^0.12.0"
